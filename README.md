@@ -1,4 +1,4 @@
-# 🌡️ Project Title: Java Celsius to Fahrenheit Temperature Converter GUI
+# 🌡️ Java Celsius to Fahrenheit Temperature Converter GUI
 
 ## 📝 Description
 
